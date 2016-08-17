@@ -11,6 +11,7 @@
   "express": "^4.2.0",
   "body-parser":"*",
   "cookieParser":"*",
+  "mongoose":"*"
   "multer":"*",
   "session":"*",
   "passport":"*",
